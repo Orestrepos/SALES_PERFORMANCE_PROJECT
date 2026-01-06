@@ -79,5 +79,5 @@ El dashboard desarrollado permite:
 
 
 ## Documentación completa
-[Análisis Comercial BI (PDF)](1. README.pdf)
+[Análisis Comercial BI (PDF)](Analisis_comercial.pdf)
  
