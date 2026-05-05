@@ -15,8 +15,11 @@ I developed an interactive Power BI dashboard that enables:
   
 ![Dashboard](https://github.com/Orestrepos/SALES_PERFORMANCE_PROJECT/blob/3b385478340611c3defa337e74dba83722042d83/Dashboard.png)
 
+![Cluster1](https://github.com/Orestrepos/SALES_PERFORMANCE_PROJECT/blob/4bf1c74bfeabece3d8cb583db0ea9989c0172522/Cluster1.png)
 
+![Cluster2](https://github.com/Orestrepos/SALES_PERFORMANCE_PROJECT/blob/4bf1c74bfeabece3d8cb583db0ea9989c0172522/Cluster2.png)
 
+![Cluster3](https://github.com/Orestrepos/SALES_PERFORMANCE_PROJECT/blob/4bf1c74bfeabece3d8cb583db0ea9989c0172522/Cluster3.png)
 
 ## Key Features 
 - KPI tracking (total sales, average ticket, sales by category)
