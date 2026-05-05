@@ -1,6 +1,5 @@
 
 # Sales Performance Dashboard | Business Intelligence Project
-# Análisis Comercial – Business Intelligence
 
 ## Business problem
 Companies often have sales data but lack of clear visibility to understand performance, identify opportunities, and make informed decisions.
@@ -45,7 +44,6 @@ This dashboard allow businesses to:
 ## Tools used
 - Power BI
 - Power Query
-
  
 ## About the dataset
 Dataset adapted from public sources for analytical purposes.
