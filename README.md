@@ -12,7 +12,6 @@ I developed an interactive Power BI dashboard that enables:
 - Identification of top and underperforming products
 - Analysis by region, category and customer group
 
-
 ## Key Features 
 - KPI tracking (total sales, average ticket, sales by category)
 - Sales trend analysis
